@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fa000fc-d599-4041-8ad9-099864177f3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ciemi/scipts/mammography_correlation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ciemi/scipts/mammography_all_estimators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ciemi/scipts/mammography_knn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ciemi/datasets/mammographic_mass/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ciemi/datasets/mammographic_mass/train.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Antony Garcia/Desktop/webinar/webinar_machine_learning/ciemi/scipts",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "settings.editor.splitter.proportion": "0.29837066"
   }
