@@ -1,1 +1,2 @@
-print("Hola Mundo!")
+import sklearn
+print(sklearn.__version__)
