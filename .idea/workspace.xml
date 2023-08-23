@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fa000fc-d599-4041-8ad9-099864177f3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ciemi/scipts/mammography_all_estimators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ciemi/scipts/mammography_knn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ciemi/datasets/bank_dataset/dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ciemi/scipts/bank_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ciemi/scipts/knn_bank.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +33,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Antony Garcia/Desktop/webinar/webinar_machine_learning/ciemi/scipts",
+    "last_opened_file_path": "C:/Users/Antony Garcia/Desktop/webinar/webinar_machine_learning/ciemi/datasets/bank_dataset",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "settings.editor.splitter.proportion": "0.29837066"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Antony Garcia\Desktop\webinar\webinar_machine_learning\ciemi\datasets\bank_dataset" />
+      <recent name="C:\Users\Antony Garcia\Desktop\webinar\webinar_machine_learning\ciemi\scipts" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="knn_confussion_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="webinar_machine_learning" />
